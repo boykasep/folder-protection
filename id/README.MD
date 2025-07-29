@@ -40,3 +40,6 @@ LOG_FILE="/var/log/setup_keamanan.log"
 PASSWORD_LENGTH=12
 HASHING_ALGO="-B" # Gunakan -bm untuk MD5 di sistem lama
 # ========================
+
+# Sedikit dari saudaramu boykasep, semoga bermanfaat yaah
+
